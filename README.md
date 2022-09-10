@@ -1,2 +1,2 @@
 # improved-octo-funicular
-this only the begining
+this is only the begining
